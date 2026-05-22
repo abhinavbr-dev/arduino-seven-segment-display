@@ -27,7 +27,8 @@ The Arduino sends digital signals to the seven segment display pins to illuminat
 The complete circuit was designed and tested using Proteus simulation software.
 
 ## Screenshots
-(Add screenshots here)
+<img width="1076" height="755" alt="Screenshot 2026-05-22 155205" src="https://github.com/user-attachments/assets/c5df9095-5e7a-46d9-b066-912f9fca7bb7" />
+
 
 ## Future Improvements
 - Multi-digit display support
